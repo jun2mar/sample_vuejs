@@ -1,5 +1,5 @@
 # Vue 3 in Vite
-
+The application has a built Vuex library together with vuex-persistedstate to helps retain and manage data in a Vue.js application by providing a centralized store where the application's state is kept.
 ## This project has the basics of:
 - Login Authentication
 - Public Registration
